@@ -8,7 +8,7 @@
 
 Технологии: Flex, Grid, CSS-анимация.
 
-Ссылка на сайт: https://masotnikov.github.io/yandex-sprint__how-to-learn/
+Ссылка на сайт: https://masotnikov.github.io/how-to-learn-plus/
 
 
 *Автор: Сотников Максим. Когорта 17. Вэб-разработка +*
