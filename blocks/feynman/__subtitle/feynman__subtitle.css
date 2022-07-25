@@ -1,0 +1,11 @@
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  text-align: center;
+  margin: 70px auto 0;
+}
+
+.feynman__link:hover {
+  color: rgba(41, 203, 224);
+  transition: linear 0.2s;
+}

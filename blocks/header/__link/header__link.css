@@ -1,0 +1,9 @@
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+}
+
+.header__link:hover {
+  color: rgba(41, 203, 224);
+  transition: linear 0.2s;
+}
